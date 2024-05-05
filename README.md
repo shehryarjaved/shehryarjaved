@@ -1,9 +1,6 @@
-Shehryar Javed'<h1 align="center">Hi 👋, I'm Shehryar Javed</h1>
+<h1 align="center">Hi 👋, I'm Shehryar Javed</h1>
 <h3 align="center">A passionate backend developer from Karachi-Pakistan</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQiSg92qCF6KiJn7W4-TNhZvWBvj0GV4nLzVxxus-P5Q&s" alt="preetamdevji" />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetamdevji&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarjaved" /> </p>
 
 - 🔭 I’m currently working on **e-commerce project using mern**
 
@@ -21,8 +18,7 @@ Shehryar Javed'<h1 align="center">Hi 👋, I'm Shehryar Javed</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/preetam-devji-b2296717a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preetam-devji-b2296717a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20202905/preetam-devji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20202905/preetam-devji" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shehryar-javed-107a80174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehryar-javed-107a80174/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
