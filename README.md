@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshnaparmar&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarjaved" /> </p>
 
-- 🔭 I’m currently working on **Funflix-Streaming-Web-App**
 
-- 🌱 I’m currently learning **My Focus On ReactJS And NextJS**
+
+- 🌱 I’m currently learning **My Focus On ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shehryarjaved](https://github.com/shehryarjaved)
 
