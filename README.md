@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Preetam Devji</h1>
+<h1 align="center">Hi 👋, I'm Shehryar Javed</h1>
 <h3 align="center">A passionate backend developer from Karachi-Pakistan</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQiSg92qCF6KiJn7W4-TNhZvWBvj0GV4nLzVxxus-P5Q&s" alt="preetamdevji" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetamdevji&label=Profile%20views&color=0e75b6&style=flat" alt="preetamdevji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetamdevji&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarjaved" /> </p>
 
 - 🔭 I’m currently working on **e-commerce project using mern**
 
 - 🌱 I’m currently learning **javascript frameworks and libraries**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Preetamdevji](https://github.com/Preetamdevji)
+- 👨‍💻 All of my projects are available at [https://github.com/shehryarjaved](https://github.com/shehryarjaved)
 
 - 💬 Ask me about **Javascript,TypeScript,Node,Express,React,Mongo,SQL,Laravel**
 
-- 📫 How to reach me **preetam.devji123@gmail.com**
+- 📫 How to reach me **shehryarjaved008@gamil.com*
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/preetam-devji-b2296717a/](https://www.linkedin.com/in/preetam-devji-b2296717a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shehryar-javed-107a80174/](https://www.linkedin.com/in/shehryar-javed-107a80174/)
 
 - ⚡ Fun fact **I am funny**
 
